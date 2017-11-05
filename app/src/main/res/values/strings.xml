@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="am_lblNameText">Name</string>
+    <string name="am_txtNameHint">(name)</string>
+    <string name="am_lblEmailText">email</string>
+    <string name="am_txtMailHint">(email)</string>
+    <string name="am_lblPhoneText">Phone Number</string>
+    <string name="am_txtPhoneHint">(phone)</string>
+    <string name="am_lblAddressText">Address</string>
+    <string name="am_txtAddressHint">(address)</string>
+    <string name="am_lblWebText">Web</string>
+    <string name="am_txtWebHint">(url)</string>
+</resources>
